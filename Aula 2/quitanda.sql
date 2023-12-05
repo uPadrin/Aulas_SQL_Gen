@@ -72,7 +72,7 @@ UPDATE tb_produtos SET preco = 11.90 WHERE id = 3;
 -- Deleta o registro da tabela, cujo id seja igual a 2
 DELETE FROM tb_produtos WHERE id = 2;
 
-INSERT INTO tb_produtos(nome, quantidade, data_validade, preco)
+INSERT INTO tb_produtos(nome_produto, quantidade, data_validade, preco)
 VALUES ("pera", 100 , "2023-12-30", 10.00);
 
 

@@ -28,4 +28,3 @@ SELECT * FROM tb_produtoE WHERE preco < 500.00;
 UPDATE tb_produtoE SET salario = 3999.00 WHERE id = 8;
 
 SELECT * FROM tb_produtoE;
- 
